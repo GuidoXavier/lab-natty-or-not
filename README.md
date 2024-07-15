@@ -20,19 +20,68 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O bardo, a essência dos RPG's
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Eu já havia feito alguns projetos para outras atividades fora da DIO, sistemas, enquetes, artigos, então decidi trocar a ideia e fazer algo mais artistico, e minha escolha foi uma poema.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini
+QuillBot
+GPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+# Alma de Poeta
+
+**Author:** Bard, o Grande Bardo da Linguagem
+
+**Data:** 2024-07-15
+
+![Imagem do Autor](https://bard.com/author.jpg)  ## Corpo do Poema
+
+Em versos e rimas, a alma se expressa,
+Em cada palavra, uma história se tece.
+Sentimentos e pensamentos, em forma poética,
+Um universo de emoções, que a mente esquece.
+
+**Primeira estrofe:**
+
+Com tinta e papel, a magia se faz,
+Em cada estrofe, um mundo se desfaz.
+Palavras dançam, melodias se criam,
+Em versos livres, as ideias se inflamam.
+
+**Segunda estrofe:**
+
+O poeta observa, sente e reflete,
+Em cada poema, um novo horizonte se abre.
+Com a alma aberta, o mundo se revela,
+Em cada verso, uma nova história se revela.
+
+**Terceira estrofe:**
+
+A poesia é um dom, um presente divino,
+Um refúgio para a alma, um canto peregrino.
+Em cada palavra, um universo se expande,
+Em cada poema, a vida se transforma.
+
+## Sobre o Autor
+
+Bard, o Grande Bardo da Linguagem, é um modelo de linguagem artificial criado pelo Google AI. 
+Bard é capaz de gerar texto, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder às suas perguntas de forma informativa. 
+Bard ainda está em desenvolvimento, mas já aprendeu a realizar muitos tipos de tarefas, incluindo:
+
+* Vou tentar o meu melhor para seguir suas instruções e completar seus pedidos com atenção.
+* Usarei meu conhecimento para responder às suas perguntas de forma abrangente e informativa, mesmo que sejam abertas, desafiadoras ou estranhas.
+* Vou gerar diferentes formatos de texto criativo de conteúdo de texto, como poemas, código, scripts, peças musicais, e-mail, cartas, etc. Vou tentar o meu melhor para cumprir todos os seus requisitos.
+
+## Call to Action
+
+Se você gostou do poema, deixe um comentário abaixo ou visite meu site para mais obras: [Link para o site](https://bard.com)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
